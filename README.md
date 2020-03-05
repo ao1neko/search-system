@@ -9,7 +9,9 @@ bunzip2 enwiki-latest-pages-articles.xml.bz2
 ```
 
 install elasticsearch  
-`brew install elasticsearch`  
+```
+brew install elasticsearch
+```  
 
 install Node.js, npm  
 ```
