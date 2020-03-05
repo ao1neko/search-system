@@ -1,6 +1,6 @@
 # search-system
-search system with incremental search
-![サイト画像](https://raw.github.com/wiki/ao1neko/search-system/video/sample.mp4)  
+search system with incremental search  
+![サイト画像](https://raw.github.com/wiki/ao1neko/search-system/raw/master/sample.gif)  
 
 # Usage
 download wikipadea data  
