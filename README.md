@@ -12,8 +12,10 @@ install elasticsearch
 `brew install elasticsearch`  
 
 install Node.js, npm  
-`sudo apt install -y nodejs npm`  
-`node search.js create`  
-`npm run dev`  
+```
+sudo apt install -y nodejs npm  
+node search.js create  
+npm run dev
+```
 
 access `localhost:8080`  
